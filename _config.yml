@@ -1,31 +1,19 @@
-name: Legacii
-favicon: null
-layout_spectrum: 0.25946
-title: 'Web design for the passionate entrepreneur '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#0b0807'
-    - '#3c3e43'
-    - '#d2c2ba'
-    - '#77818f'
-    - '#575e68'
+    - '#B8B8C0'
+    - '#000000'
+    - '#788080'
+    - '#000000'
+    - '#000000'
   brandStrength: 1
-  lightness: 0.5
+  lightness: 0.731418
+  rhythmicContrast: 0.66554
   saturation: 0.5
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.961148
+name: Legacii
+opengraph: {}
 purpose:
   - name: shares
-    item: null
-    url: null
+typography_spectrum: 0.141891
