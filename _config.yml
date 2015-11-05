@@ -1,4 +1,19 @@
-analytics: {}
+name: Legacii
+favicon: null
+layout_spectrum: 0.961148
+typography_spectrum: 0.141891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B8C0'
@@ -6,14 +21,11 @@ color:
     - '#788080'
     - '#000000'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.731418
-  rhythmicContrast: 0.66554
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.961148
-name: Legacii
-opengraph: {}
+  rhythmicContrast: 0.66554
 purpose:
   - name: shares
-typography_spectrum: 0.141891
+    item: null
+    url: null
