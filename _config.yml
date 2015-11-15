@@ -1,6 +1,6 @@
 name: Legacii
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.141891
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#788080'
     - '#000000'
     - '#000000'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.25
